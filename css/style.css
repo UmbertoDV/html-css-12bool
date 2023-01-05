@@ -1,0 +1,17 @@
+.box{
+    min-height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: lightblue;
+    border: 1px solid white;
+}
+.box-nest{
+    min-height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: red;
+    border: 1px solid black;
+}
+h1, h2{
+    text-align: center;
+}
